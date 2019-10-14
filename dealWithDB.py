@@ -2,6 +2,7 @@
 #! usr/bin/env python
 # -*- coding: utf-8 -*-
 #database test
+# in addition se README.md
 
 import sys, time, threading
 import sqlite3

@@ -1,5 +1,7 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
+# for 2'nd commit
+# in addition se README.md
 
 import sys, time, threading
 from concurrent import futures
